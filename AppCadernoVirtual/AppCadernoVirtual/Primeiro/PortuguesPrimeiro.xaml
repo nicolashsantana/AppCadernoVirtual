@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.PortuguesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label></Label>
+
+            <Label Text="Textos verbais e não-verbais" HorizontalTextAlignment="Center" FontSize="Medium"> </Label>
+            <Label Text="Percepção do uso adequado da língua em situações diversas" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            <Label Text="Gêneros textuais: notícia, reportagem, artigo de opinião, editorial, conto e crônica" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            <Label Text="Tipos textuais: narração e argumentação" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            <Label Text="Produção de textos narrativos" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            <Label Text=" Produção de textos dissertativos, com argumentação, contra-argumentação, objetividade, persuasão, coerência e coesão" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            <Label Text="Domínio da relação dos termos na estrutura frasal" HorizontalTextAlignment="Center" FontSize="Medium"></Label>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
